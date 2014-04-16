@@ -1,4 +1,4 @@
 gae-t01
 =======
 
-Repositório da primeira turma de App Engine
+Repositório da primeira turma de Google App Engine
