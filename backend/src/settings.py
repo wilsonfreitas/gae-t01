@@ -7,7 +7,7 @@ from tekton.gae.middleware.parameter import RequestParamsMiddleware
 from tekton.gae.middleware.router_middleware import RouterMiddleware
 from tekton.gae.middleware.webapp2_dependencies import Webapp2Dependencies
 
-SENDER_EMAIL = 'renzon@gmail.com'
+SENDER_EMAIL = 'wilson.freitas@gmail.com'
 WEB_BASE_PACKAGE = "web"
 MIDDLEWARES = [TemplateMiddleware,
                JsonMiddleare,
